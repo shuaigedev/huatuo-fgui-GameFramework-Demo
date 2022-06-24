@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs" FileSystem="GameData" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="DataTables" FileSystem="GameData" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="Entities" FileSystem="Resources" LoadType="0" Packed="True" />
+      <Resource Name="Fonts" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="HotfixCode" LoadType="0" Packed="False" />
+      <Resource Name="Localization/Dictionaries" Variant="en-us" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="Localization/Dictionaries" Variant="ko-kr" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="Localization/Dictionaries" Variant="zh-cn" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="Localization/Dictionaries" Variant="zh-tw" FileSystem="UI" LoadType="0" Packed="True" ResourceGroups="Base" />
+      <Resource Name="Music/About" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music" />
+      <Resource Name="Music/Background" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music" />
+      <Resource Name="Music/Menu" FileSystem="Resources" LoadType="0" Packed="True" ResourceGroups="Music" />
+      <Resource Name="Res/FGuiResource/Comment_atlas0" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/Comment_fui" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/GameOverPage_atlas0" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/GameOverPage_fui" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/Lobby_atlas0" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/Lobby_fui" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/LoginPage_fui" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/MainPage_atlas0" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/MainPage_fui" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/MenuPage_atlas0" LoadType="0" Packed="False" />
+      <Resource Name="Res/FGuiResource/MenuPage_fui" LoadType="0" Packed="False" />
+      <Resource Name="Scenes" FileSystem="Resources" LoadType="0" Packed="True" />
+      <Resource Name="UI/UIForms" FileSystem="UI" LoadType="0" Packed="True" />
+    </Resources>
+    <Assets>
+      <Asset Guid="0557fe650917d1e45acee4e46cfe8698" ResourceName="DataTables" />
+      <Asset Guid="05ae06b1f64fe2642a6962b40145c1ec" ResourceName="DataTables" />
+      <Asset Guid="06009890249b2044f802f9b4d7f1e3ad" ResourceName="UI/UIForms" />
+      <Asset Guid="072ee7a7dd6e77044939aa0a15a19816" ResourceName="Entities" />
+      <Asset Guid="0bbbecfddb018f440aa473c0e8fd0aa1" ResourceName="Res/FGuiResource/Lobby_fui" />
+      <Asset Guid="1053b0070685be347ab58587156842dc" ResourceName="Localization/Dictionaries" ResourceVariant="zh-tw" />
+      <Asset Guid="14869ac0d4433f04db1704e39d03412e" ResourceName="Localization/Dictionaries" ResourceVariant="en-us" />
+      <Asset Guid="148ad277a17a7ce4891aea112f5a71af" ResourceName="Scenes" />
+      <Asset Guid="1bfc28454853a3843b9896eb162743be" ResourceName="HotfixCode" />
+      <Asset Guid="255e66098541712469e0a4655869cf1f" ResourceName="UI/UIForms" />
+      <Asset Guid="2aabd61dfe565ae489bd476e083686b4" ResourceName="DataTables" />
+      <Asset Guid="371518fab20dff249b78574af33755a5" ResourceName="Entities" />
+      <Asset Guid="3c431cd5aeddc3b4c9c316190c9da4ee" ResourceName="Music/Menu" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" ResourceName="Configs" />
+      <Asset Guid="499601800bd876245b52fe7c6a60fc8e" ResourceName="DataTables" />
+      <Asset Guid="5550105f85bb59543bf7820fe4901a24" ResourceName="Res/FGuiResource/MainPage_fui" />
+      <Asset Guid="5dcd89912e222bf4c87f76db4044bc5e" ResourceName="Localization/Dictionaries" ResourceVariant="ko-kr" />
+      <Asset Guid="5fd2d1339649d5948be36145496bb358" ResourceName="DataTables" />
+      <Asset Guid="67c3d09f9a258504387603f218f4008b" ResourceName="Music/About" />
+      <Asset Guid="6952e0e1922fa8846871d879de4a9c9f" ResourceName="Res/FGuiResource/MainPage_atlas0" />
+      <Asset Guid="70859b0aed3b35a4da0904a95582280b" ResourceName="Res/FGuiResource/Lobby_atlas0" />
+      <Asset Guid="77cbb7c5404c10242ab59953e0746314" ResourceName="Fonts" />
+      <Asset Guid="7fa4127275ad16645b23da9c071d9f03" ResourceName="Res/FGuiResource/GameOverPage_atlas0" />
+      <Asset Guid="7fd11dc5d29076d469d414dec2818f11" ResourceName="Configs" />
+      <Asset Guid="8c37ff935f2ea9447a2bcf7722cb0e0c" ResourceName="DataTables" />
+      <Asset Guid="90648f22701a57b478b61d6ad58867cd" ResourceName="Res/FGuiResource/MenuPage_atlas0" />
+      <Asset Guid="9340a86ee631cfa45b0b530e5bae039a" ResourceName="UI/UIForms" />
+      <Asset Guid="9be2e1e45f4edd74c8764538ad306b78" ResourceName="Localization/Dictionaries" ResourceVariant="zh-cn" />
+      <Asset Guid="a0cb8ebf35d7e2048b8c959d3dd736a5" ResourceName="Res/FGuiResource/MenuPage_fui" />
+      <Asset Guid="ac21e489c49fe1143a1d85b84561bff3" ResourceName="UI/UIForms" />
+      <Asset Guid="b1a89c15a4aa17743a7e262537758598" ResourceName="Res/FGuiResource/GameOverPage_fui" />
+      <Asset Guid="b1b27f5cfb9edbc40909ed14ae004b75" ResourceName="DataTables" />
+      <Asset Guid="b2b1defc5d4a59946aee258170a03f44" ResourceName="DataTables" />
+      <Asset Guid="be337e4330d0a1e4694ba1de4489e864" ResourceName="Res/FGuiResource/Comment_fui" />
+      <Asset Guid="c950f9bd8d698be46837031757a40d00" ResourceName="DataTables" />
+      <Asset Guid="d0218cbdb8b81c54184d21b6f5ace8e0" ResourceName="Res/FGuiResource/Comment_atlas0" />
+      <Asset Guid="d03bac6f6feff4d428afaed1c48ed69f" ResourceName="DataTables" />
+      <Asset Guid="d9e002d7b97f90246a95ebff59df0db0" ResourceName="DataTables" />
+      <Asset Guid="da509761d6651394585e14712687437e" ResourceName="UI/UIForms" />
+      <Asset Guid="e1557eb7843bcd24ea1a34a4fb7021dd" ResourceName="Entities" />
+      <Asset Guid="e2ba0cd48f147c44296f7ab2239dc4f2" ResourceName="Scenes" />
+      <Asset Guid="e49a6d9761126e54da8e9aa38ffce43b" ResourceName="Res/FGuiResource/LoginPage_fui" />
+      <Asset Guid="eb2a1910e9e631c4f97d630fe9379427" ResourceName="Res/FGuiResource/Lobby_atlas0" />
+      <Asset Guid="ef402e859d5ec454d96651d1dc5acc83" ResourceName="Scenes" />
+      <Asset Guid="ef5db3acfda02da4dbe8772d9f1cefed" ResourceName="DataTables" />
+      <Asset Guid="efbb6f1b5950e7b4f8f38298a19819a9" ResourceName="Entities" />
+      <Asset Guid="f64c7bf4130052d46be24957519dbb9f" ResourceName="Music/Background" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>
