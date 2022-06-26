@@ -7,14 +7,19 @@ GF框架下集成FGUI+huatuo+URP
 2.热更新web服务器用的是windows下的HFS，用来模拟huatuo的dll热更新下载
 
 感谢以下大佬的帮助：
+
 huatuo群中的Ron & 冬瓜 & walon
 
 以及以下开源项目的帮助：
+
 GameFramework：
+
 https://github.com/EllanJiang/GameFramework/fork
 
 GF集成huatuo：
+
 https://github.com/GREAT1217/StarForce_HuaTuo
 
 一个集成FGUI的跳跳小游戏：
+
 https://github.com/Awenc/Jump
