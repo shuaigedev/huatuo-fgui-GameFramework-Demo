@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using GameFramework.Event;
 using GameFramework.Procedure;
+using GameFramework.Resource;
+using UnityEngine;
 using UnityGameFramework.Runtime;
 using ProcedureOwner = GameFramework.Fsm.IFsm<GameFramework.Procedure.IProcedureManager>;
 
@@ -46,8 +48,22 @@ namespace Game.Hotfix
             //打开战斗界面
             GameEntry.UI.OpenUIForm(UIFormId.MainPage, this);
             GameEntry.Event.Subscribe(GameOverEventArgs.EventId,OnGameOver);
-            
+            //GameEntry.Resource.LoadAsset(AssetUtility.GetEntityAsset("Ground"), new LoadAssetCallbacks(OnLoadAssetSuccess, OnLoadAssetFail));
         }
+
+        private void OnLoadAssetSuccess(string assetName, object asset, float duration, object userdata)
+        {
+            GameObject game = GameObject.Instantiate((GameObject)asset);
+            game.name = "TestGround";
+            //game.AddComponent<TestPage>();
+        }
+
+        private void OnLoadAssetFail(string assetName, LoadResourceStatus status, string errormessage, object userdata)
+        {
+            Log.Error("Load game failed. {0}", errormessage);
+        }
+
+
 
         protected override void OnLeave(ProcedureOwner procedureOwner, bool isShutdown)
         {

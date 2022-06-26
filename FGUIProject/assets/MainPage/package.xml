@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="46teulsd">
+  <resources>
+    <component id="tok00" name="Main.xml" path="/" exported="true"/>
+    <image id="tok01" name="zhantin.png" path="/" exported="true"/>
+    <component id="tok02" name="StopBtn.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="MainPage" genCode="true"/>
+</packageDescription>

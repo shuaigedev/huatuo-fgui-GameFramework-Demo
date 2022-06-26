@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5n6af2ud">
+  <resources>
+    <component id="nymm0" name="Main.xml" path="/" exported="true"/>
+    <image id="nymm1" name="重新开始,恢复_jurassic.png" path="/" exported="true"/>
+    <component id="nymm2" name="ReStart.xml" path="/" exported="true"/>
+    <image id="nymm4" name="主页 (1).png" path="/" exported="true"/>
+    <component id="nymm7" name="Home.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="GameOverPage" genCode="true"/>
+</packageDescription>

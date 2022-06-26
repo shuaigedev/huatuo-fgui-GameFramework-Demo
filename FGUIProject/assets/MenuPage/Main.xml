@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <component id="n1_tok0" name="n1" src="tok05" fileName="Start.xml" xy="467,768"/>
+    <image id="n2_tok0" name="n2" src="tok03" fileName="start.png" xy="366,515" size="406,185"/>
+  </displayList>
+</component>

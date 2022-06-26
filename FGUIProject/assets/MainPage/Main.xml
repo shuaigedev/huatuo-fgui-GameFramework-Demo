@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <text id="n1_tok0" name="n1" xy="0,1" size="1080,204" font="ui://kvnr6i2stok01m" fontSize="40" color="#cccccc" align="center" vAlign="middle" letterSpacing="20" autoSize="none" text="123456"/>
+    <image id="n4_tok0" name="n4" src="tok01c" fileName="数字/0.png" pkg="kvnr6i2s" xy="1,0" visible="false"/>
+  </displayList>
+</component>

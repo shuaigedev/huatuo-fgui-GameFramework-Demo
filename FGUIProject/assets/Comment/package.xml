@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kvnr6i2s">
+  <resources>
+    <image id="tok01c" name="0.png" path="/数字/" exported="true"/>
+    <image id="tok01d" name="1.png" path="/数字/" exported="true"/>
+    <image id="tok01e" name="2.png" path="/数字/" exported="true"/>
+    <image id="tok01f" name="3.png" path="/数字/" exported="true"/>
+    <image id="tok01g" name="4.png" path="/数字/" exported="true"/>
+    <image id="tok01h" name="5.png" path="/数字/" exported="true"/>
+    <image id="tok01i" name="6.png" path="/数字/" exported="true"/>
+    <image id="tok01j" name="7.png" path="/数字/" exported="true"/>
+    <image id="tok01k" name="8.png" path="/数字/" exported="true"/>
+    <image id="tok01l" name="9.png" path="/数字/" exported="true"/>
+    <font id="tok01m" name="Grade.fnt" path="/数字/" exported="true"/>
+  </resources>
+  <publish name="Comment" genCode="true"/>
+</packageDescription>

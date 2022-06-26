@@ -46,5 +46,10 @@ namespace Game.Hotfix
             GameHotfixEntry.Ground.SetLevel(m_Score);
             m_Grade.text =m_Score.ToString();
         }
+
+        protected override void OnUpdate(float elapseSeconds, float realElapseSeconds)
+        {
+            base.OnUpdate(elapseSeconds, realElapseSeconds);
+        }
     }
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n5_nymm" name="n5" xy="0,0" size="1080,1920" type="rect" fillColor="#ff000000"/>
+    <graph id="n0_nymm" name="n0" xy="493,98" size="100,100" type="eclipse" lineColor="#ffcccccc"/>
+    <text id="n1_nymm" name="n1" xy="11,567" size="1056,159" fontSize="50" color="#ffffff" align="center" vAlign="middle" leading="19" letterSpacing="21" autoSize="none" bold="true" text="GameOver"/>
+    <component id="n2_nymm" name="n2" src="nymm2" fileName="ReStart.xml" xy="700,1456" size="177,177"/>
+    <component id="n4_nymm" name="n4" src="nymm7" fileName="Home.xml" xy="264,1456" size="209,157"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n0_nymm" tween="true" startValue="493.41,98.82" endValue="493,915" duration="12"/>
+  </transition>
+</component>
