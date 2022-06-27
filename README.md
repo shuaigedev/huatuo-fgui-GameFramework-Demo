@@ -17,6 +17,10 @@ GameFramework：
 
 https://github.com/EllanJiang/GameFramework
 
+huatuo:
+
+https://github.com/focus-creative-games/huatuo
+
 GF集成huatuo：
 
 https://github.com/GREAT1217/StarForce_HuaTuo
