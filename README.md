@@ -15,7 +15,7 @@ huatuo群中的Ron & 冬瓜 & walon
 
 GameFramework：
 
-https://github.com/EllanJiang/GameFramework/fork
+https://github.com/EllanJiang/GameFramework
 
 GF集成huatuo：
 
